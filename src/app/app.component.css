@@ -1,0 +1,29 @@
+.container{
+    background-image: url('../assets/bg.jpg');
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    width:20%;
+    height: 5%;
+    
+}
+p{
+    background-color: aliceblue;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20px;
+}
+.btn-div button{
+    background-color: tomato;
+    color: #fff;
+    padding:4px;
+    display: block;
+    min-width: 100%;
+}
+#country{
+    margin-top: 100px;
+    max-width:30%;
+}
